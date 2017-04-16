@@ -1,5 +1,6 @@
 # rpi-docker-named
 About a Docker Container and his Named.
+(heavily inspired by every rpi named repo)
 
 sudo docker run --name bind -d \
                 --restart=always \
