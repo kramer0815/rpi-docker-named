@@ -7,8 +7,8 @@ Bla
 Goal was to provide a dockerized nameserver for a raspberry pi with raspbian lite and docker.
 The host uses the shared path /srv/docker/bind to share bind config files.
 
-        data db.192
-        db.ekko.lo
+        db.192
+        db.na.logen
         named.conf.local
 
 Blub
